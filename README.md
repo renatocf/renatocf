@@ -19,9 +19,9 @@
 ## My history at GitHub
 
 <div align="left">
-  <img height=220 src="https://streak-stats.demolab.com/?user=renatocf&date_format=Y.m.d&card_width=750" />
-  <img height=220 src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews&card_width=400" />
-  <img height=220 src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=1&langs_count=10&card_width=400" />
+  <img height=220 src="https://streak-stats.demolab.com/?user=renatocf&date_format=Y.m.d&card_width=710" />
+  <img height=220 src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews&card_width=350" />
+  <img height=220 src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=1&langs_count=10&card_width=350" />
 </div>
 
 <!--
