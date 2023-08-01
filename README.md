@@ -1,6 +1,6 @@
-# Renato Cordeiro Ferreira [he/him] 🖖
+# Renato Cordeiro Ferreira [he/him]
 
-[Want to chat? Find me around!](https://linktr.ee/renatocf)
+I'm most definitively a geek 🖖 [Want to chat? Find me around!](https://linktr.ee/renatocf)
 
 ## Some things I love
 
