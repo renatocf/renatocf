@@ -25,12 +25,12 @@ Curious about my research? [Take a look at my academic carreer](https://renatocf
 [![Ruby Static Badge](https://img.shields.io/badge/ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/acessoajustica/acessoajustica)
 [![Perl Static Badge](https://img.shields.io/badge/Perl-darkcyan?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
 [![Bash Static Badge](https://img.shields.io/badge/bash-seagreen?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://github.com/renatocf/sorghum)
-[![SQL Static Badge](https://img.shields.io/badge/SQL-mediumblue?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 
 ![Linux Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git Static Badge](https://img.shields.io/badge/git-darkorange?style=for-the-badge&logo=git&logoColor=white)
 ![Docker Static Badge](https://img.shields.io/badge/docker-dodgerblue?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-royalblue?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![SQL Static Badge](https://img.shields.io/badge/SQL-mediumblue?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![Make Static Badge](https://img.shields.io/badge/Make-gray?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/umake/make)
 [![Vim Static Badge](https://img.shields.io/badge/vim-darkslategray?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/renatocf/dotfiles)
 
