@@ -2,6 +2,8 @@
 
 Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://linktr.ee/renatocf)
 
+Curious about my research? [Take a look at my academic carreer](https://renatocf.xyz/lattes) 
+
 ## Some things I love ❤️
 
 - **Artificial Intelligence** 🤖 <br> _I'm Chapter Leader of Machine Learning Engineering at [Elo7][elo7], delivering AI solutions into production_
@@ -18,12 +20,12 @@ Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me aroun
 [![Python Static Badge](https://img.shields.io/badge/Python-darkgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatocf/intelligent-systems-project)
 [![Node Static Badge](https://img.shields.io/badge/node-darkolivegreen?style=for-the-badge&logo=JavaScript&logoColor=white)](https://gitlab.com/uspcodelab/courses/MAC0475-2020/hacknizer/auth-api)
 [![Java Static Badge](https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/renatocf/MAC0242-PROJECT)
-[![Kotlin Static Badge](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/galaxy-raiders/galaxy-raiders-api)
 [![Scala Static Badge](https://img.shields.io/badge/Scala-indianred?style=for-the-badge&logo=scala&logoColor=white)](https://gitlab.com/renatocf/exploring-mars)
+[![Kotlin Static Badge](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/galaxy-raiders/galaxy-raiders-api)
 [![Perl Static Badge](https://img.shields.io/badge/Perl-darkcyan?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
 [![SQL Static Badge](https://img.shields.io/badge/SQL-mediumblue?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![Make Static Badge](https://img.shields.io/badge/Make-dimgray?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/umake/make)
-[![Static Badge](https://img.shields.io/badge/vim-darkslategray?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/renatocf/dotfiles)
+[![Vim Static Badge](https://img.shields.io/badge/vim-darkslategray?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/renatocf/dotfiles)
 
 ## My history at GitHub :octocat:
 
