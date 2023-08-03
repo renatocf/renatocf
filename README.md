@@ -38,7 +38,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Tailwind Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://gitlab.com/uspcodelab/jobs/florestas/)
 <br>
 ![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
-[![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=archlinux&logoColor=black)]()
 [![Docker Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Kafka Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
@@ -54,15 +54,15 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Spark Static Badge](https://img.shields.io/badge/Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)]()
 [![MLFlow Static Badge](https://img.shields.io/badge/MLFlow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white)]()
 [![Airflow Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)]()
-
-<!--
+<br>
 ![Static Badge](https://img.shields.io/badge/tool-black?style=for-the-badge)
-[![ArchLinux Static Badge](https://img.shields.io/badge/archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
-]![Git Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Git Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![NeoVim Static Badge](https://img.shields.io/badge/neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/renatocf/dotfiles)
 [![VSCode Static Badge](https://img.shields.io/badge/vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![IntelliJ Static Badge](https://img.shields.io/badge/intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)]()
--->
+[![Chrome Static Badge](https://img.shields.io/badge/chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]()
+[![Firefox Static Badge](https://img.shields.io/badge/firefox-%23FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)]()
+[![ArchLinux Static Badge](https://img.shields.io/badge/archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
 
 ## My history at GitHub :octocat:
 
