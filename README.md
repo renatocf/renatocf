@@ -25,7 +25,6 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Kotlin Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/galaxy-raiders/galaxy-raiders-api)
 [![Ruby Static Badge](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/acessoajustica/acessoajustica)
 [![Perl Static Badge](https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
-[![Bash Static Badge](https://img.shields.io/badge/bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/renatocf/sorghum)
 <br>
 ![Static Badge](https://img.shields.io/badge/front-black?style=for-the-badge)
 [![HTML Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -35,7 +34,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Vue.js Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/renatocf/poster-eppc)
 ![Svelte Static Badge](https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 [![Sass Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
-[![Bootstrap Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
+[![Bootstrap Static Badge](https://img.shields.io/badge/BS-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
 [![Tailwind Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://gitlab.com/uspcodelab/jobs/florestas/)
 <br>
 ![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
@@ -43,7 +42,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Docker Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Kafka Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
-[![PostgreSQL Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
+[![PostgreSQL Static Badge](https://img.shields.io/badge/Postgres-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![MongoDB Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![Redis Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 <br>
@@ -51,7 +50,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Jupyter Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
 [![Numpy Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
 [![Pandas Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
-[![Scikit-Learn Static Badge](https://img.shields.io/badge/ScikitLearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
+[![Scikit-Learn Static Badge](https://img.shields.io/badge/SKLearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
 [![Spark Static Badge](https://img.shields.io/badge/Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)]()
 [![MLFlow Static Badge](https://img.shields.io/badge/MLFlow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white)]()
 [![Airflow Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)]()
@@ -63,7 +62,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![IntelliJ Static Badge](https://img.shields.io/badge/intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)]()
 [![Chrome Static Badge](https://img.shields.io/badge/chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]()
 [![Firefox Static Badge](https://img.shields.io/badge/firefox-%23FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)]()
-[![ArchLinux Static Badge](https://img.shields.io/badge/archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
+[![ArchLinux Static Badge](https://img.shields.io/badge/arch-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
 
 ## My history at GitHub :octocat:
 
