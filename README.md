@@ -33,9 +33,9 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![JavaScript Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript Static Badge](https://img.shields.io/badge/TS-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Vue.js Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/renatocf/poster-eppc)
-[![Nuxt.js Static Badge](https://img.shields.io/badge/Nuxt-%2300DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://gitlab.com/renatocf/site)
 ![Svelte Static Badge](https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-[![Bootstrap Static Badge](https://img.shields.io/badge/Bootstrap-%7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
+[![Sass Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
+[![Bootstrap Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
 [![Tailwind Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://gitlab.com/uspcodelab/jobs/florestas/)
 <br>
 ![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
