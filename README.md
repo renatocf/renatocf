@@ -16,6 +16,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 
 ## Technologies I have experience with 👨‍💻
 
+![Static Badge](https://img.shields.io/badge/back-black?style=for-the-badge)
 [![C++ Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)](https://github.com/renatocf/probability)
 [![Python Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatocf/intelligent-systems-project)
 [![Node.js Static Badge](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://gitlab.com/uspcodelab/courses/MAC0475-2020/hacknizer/auth-api)
@@ -25,36 +26,43 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Ruby Static Badge](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/acessoajustica/acessoajustica)
 [![Perl Static Badge](https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
 [![Bash Static Badge](https://img.shields.io/badge/bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/renatocf/sorghum)
-
-![HTML Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<br>
+![Static Badge](https://img.shields.io/badge/front-black?style=for-the-badge)
+[![HTML Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
+[![JavaScript Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Vue.js Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/renatocf/poster-eppc)
+[![Nuxt.js Static Badge](https://img.shields.io/badge/Nuxt-%2300DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://gitlab.com/renatocf/site)
 ![Svelte Static Badge](https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Bootstrap Static Badge](https://img.shields.io/badge/Bootstrap-%7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Bootstrap Static Badge](https://img.shields.io/badge/Bootstrap-%7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
+[![Tailwind Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://gitlab.com/uspcodelab/jobs/florestas/)
+<br>
+![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
+[![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Docker Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Kafka Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![PostgreSQL Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![MongoDB Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![Redis Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
+<br>
+![Static Badge](https://img.shields.io/badge/data-black?style=for-the-badge)
+[![Jupyter Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
+[![Numpy Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
+[![Pandas Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
+[![Scikit-Learn Static Badge](https://img.shields.io/badge/ScikitLearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
+[![Spark Static Badge](https://img.shields.io/badge/Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)]()
+[![MLFlow Static Badge](https://img.shields.io/badge/MLFlow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white)]()
+[![Airflow Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)]()
 
-![ArchLinux Static Badge](https://img.shields.io/badge/archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Git Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-[![Make Static Badge](https://img.shields.io/badge/Make-%23A42E2B?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/umake/make)
+<!--
+![Static Badge](https://img.shields.io/badge/tool-black?style=for-the-badge)
+[![ArchLinux Static Badge](https://img.shields.io/badge/archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
+]![Git Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![NeoVim Static Badge](https://img.shields.io/badge/neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![VSCode Static Badge](https://img.shields.io/badge/vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![IntelliJ Static Badge](https://img.shields.io/badge/intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://github.com/renatocf/dotfiles)
-
-[![Jupyter Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![Numpy Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![Pandas Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![Scikit-Learn Static Badge](https://img.shields.io/badge/ScikitLearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![MLFlow Static Badge](https://img.shields.io/badge/MLFlow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/renatocf/dotfiles)
-[![Airflow Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/renatocf/dotfiles)
+[![VSCode Static Badge](https://img.shields.io/badge/vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![IntelliJ Static Badge](https://img.shields.io/badge/intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)]()
+-->
 
 ## My history at GitHub :octocat:
 
@@ -63,23 +71,6 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
   <img height=220 src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews&card_width=350" />
   <img height=220 src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=10&card_width=350" />
 </div>
-
-<!--
-**renatocf/renatocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<br/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [elo7]: https://www.elo7.com.br/sobre
 [usp]: https://usp.br
