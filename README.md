@@ -38,7 +38,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Tailwind Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://gitlab.com/uspcodelab/jobs/florestas/)
 <br>
 ![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
-[![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=archlinux&logoColor=black)]()
+[![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Docker Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Kafka Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
