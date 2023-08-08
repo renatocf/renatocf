@@ -11,7 +11,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PhDPitch]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Principal Tech Academy Instructor at [Elo7][elo7]_
 - **Traveling** 🌎 <br> _I've worked remotely all around Brazil 🇧🇷, and I'm currently living in the Netherlands 🇳🇱_
-- **Hackathons** ⏰ <br> _I've organized [+15 competitions][HackathonPaper] since 2015, with hundreds of participants, and I am a [pioneer][HackathonNews] in university hackathons_
+- **Hackathons** ⏰ <br> _I've organized [+15 competitions][HackathonPaper] since 2015, with hundreds of participants, and I'm a [pioneer][HackathonNews] in university hackathons_
 - **Role-Playing Games** 🐲 <br> _I'm game master of a D&D campaign since 2020, with ~100 sessions  (~300 hours) of play_
 
 ## Technologies I have experience with 👨‍💻
