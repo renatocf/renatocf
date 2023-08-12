@@ -6,7 +6,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 
 ## Some things I love ❤️
 
-- **Artificial Intelligence** 🤖 <br> _I'm Chapter Leader of Machine Learning Engineering at [Elo7][elo7], delivering [AI solutions][PaperHIDRA] into production_
+- **Artificial Intelligence** 🤖 <br> _I'm former Chapter Leader of Machine Learning Engineering at [Elo7][elo7] (4 years), delivering [AI solutions][PaperHIDRA] into production_
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become [professional software engineers][NewsCodeLab]_
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PitchPhD]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Principal Tech Academy Instructor at [Elo7][elo7]_
