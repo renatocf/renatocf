@@ -1,3 +1,5 @@
+![renato-bg](https://github.com/renatocf/renatocf/assets/1621752/185f6e16-52ec-4eec-adb4-564b950776c6)
+
 # Renato Cordeiro Ferreira [he/him]
 
 I'm a [Brazilian 🇧🇷](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) currently working at [the Netherlands 🇳🇱](https://en.wikipedia.org/wiki/%27s-Hertogenbosch)
