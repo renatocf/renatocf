@@ -12,9 +12,9 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become [professional software engineers][NewsCodeLab]_
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PitchPhD]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Tech Academy Instructor at [Elo7][elo7]_
-- **Traveling** 🌎 <br> _I've worked remotely all around Brazil 🇧🇷, and I'm currently living in the Netherlands 🇳🇱_
+- **Traveling** 🌎 <br> _I've [worked remotely][InstagramPostDigitalNomad] all around Brazil 🇧🇷, and I'm currently living in the Netherlands 🇳🇱_
 - **Hackathons** ⏰ <br> _I've organized [+15 competitions][PaperHackathon] since 2015, with hundreds of participants, and I'm a [pioneer][NewsHackathon] in university hackathons_
-- **Role-Playing Games** 🐲 <br> _I'm game master of a [D&D campaign][StoriesVD] since 2020, with +100 sessions  (>300 hours) of play_
+- **Role-Playing Games** 🐲 <br> _I'm game master of a [D&D campaign][InstagramStoriesDragõesVioletas] since 2020, with +100 sessions  (>300 hours) of play_
 
 ## Technologies I have experience with 👨‍💻
 
@@ -86,4 +86,5 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [PitchPhD]: https://renatocf.xyz/pitch-phd-2023-1
 [NewsCodeLab]: https://jornal.usp.br/universidade/a-nova-lingua-da-universidade-grupos-e-coletivos-da-usp-apostam-no-ensino-de-programacao/
 [NewsHackathon]: https://jornal.usp.br/universidade/voce-sabe-o-que-e-um-hackathon/
-[StoriesVD]: https://www.instagram.com/stories/highlights/18028676347423730/
+[InstagramPostDigitalNomad]: https://www.instagram.com/p/CnKyhqOSgwr/?igsh=NHdidGVzZmF4dDE5/
+[InstagramStoriesDragõesVioletas]: https://www.instagram.com/stories/highlights/18028676347423730/
