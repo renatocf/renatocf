@@ -4,7 +4,7 @@
 
 I'm a [Brazilian 🇧🇷](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) currently working at [the Netherlands 🇳🇱](https://en.wikipedia.org/wiki/%27s-Hertogenbosch)
 
-Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://linktr.ee/renatocf)
+Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://renatocf.xyz/contacts)
 
 Curious about my research? [Take a look at my academic career 📚](https://renatocf.xyz/lattes)
 
