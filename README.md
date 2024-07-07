@@ -6,7 +6,7 @@ I'm a [Brazilian 🇧🇷](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) current
 
 Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://renatocf.xyz/contacts)
 
-Curious about my research? [Take a look at my academic career 📚](https://renatocf.xyz/lattes)
+Curious about my research? [Take a look at my academic career 📚](https://renatocf.xyz/orcid)
 
 ## Some things I love ❤️
 
