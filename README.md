@@ -1,4 +1,4 @@
-[![renatocf-materials](https://github.com/user-attachments/assets/867b3b0e-e203-4a63-bedb-81ced0b36a45)](https://github.com/topics/renatocf-bcc)
+[![renatocf-materials](https://github.com/user-attachments/assets/262c8e24-2e4c-4788-a77a-3754e699bab2)](https://github.com/topics/renatocf-bcc)
 ![renatocf-bg](https://github.com/renatocf/renatocf/assets/1621752/185f6e16-52ec-4eec-adb4-564b950776c6)
 
 # Renato Cordeiro Ferreira [he/him]
