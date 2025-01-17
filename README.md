@@ -72,7 +72,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 ## My history at GitHub :octocat:
 
 <div align="left">
-  <img width="90%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&date_format=Y.m.d&card_width=710" />
+  <img width="90%" src="https://renatocf-github-readme-streak-stats.vercel.app/api?user=renatocf&date_format=Y.m.d&card_width=710" />
 </div>
 <div align="left">
   <img width="52%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews&card_width=350&" />
