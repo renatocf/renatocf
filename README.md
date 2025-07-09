@@ -35,7 +35,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 <br>
 ![Front-End Badge](https://img.shields.io/badge/front-black?style=for-the-badge)
 [![HTML Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
+[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css&logoColor=white)](https://github.com/uspcodelab/site-uspcodelab/tree/v1)
 [![JavaScript Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript Badge](https://img.shields.io/badge/TS-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Vue.js Badge](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/renatocf/poster-eppc)
