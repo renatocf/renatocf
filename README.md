@@ -12,13 +12,14 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 
 ## Some things I love ❤️
 
-- **Scientific Programming** 🤖 <br> _I work as a Scientific Programmer at [JADS][jads] (2 years), applying [MLOps][PaperThesis2] in the [maritime][PaperOG] and [healthcare][PaperSPIRA] domains_
-- **Artificial Intelligence** ⚙️ <br> _I was Principal Machine Learning Engineer at [Elo7][elo7] (4 years), delivering [AI solutions][PaperHIDRA] into production_
+- **Scientific Programming** 💻 <br> _I work as a Scientific Programmer at [JADS][jads] (2 years), applying [MLOps][PaperThesis2] in the [maritime][PaperOG] and [healthcare][PaperSPIRA] domains_
+- **Artificial Intelligence** 🤖 <br> _I was Principal Machine Learning Engineer at [Elo7][elo7] (4 years), delivering [AI solutions][PaperHIDRA] into production_
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become [professional software engineers][NewsCodeLab]_
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PaperThesis1]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Tech Academy Instructor at [Elo7][elo7]_
 - **Traveling** 🌎 <br> _I've [worked remotely][InstagramPostDigitalNomad] all around Brazil 🇧🇷, and I'm currently [living][InstagramStoriesBrazilToNetherlands] in the Netherlands 🇳🇱_
 - **Hackathons** ⏰ <br> _I've organized [+15 competitions][PaperHackathon] since 2015, with hundreds of participants, and I'm a [pioneer][NewsHackathon] in university hackathons_
+- **Board Games** 🎲 <br> _I have a collection of [+30 board games][BoardGameLibrary], and I love hosting friends for playing some expert games_
 - **Role-Playing Games** 🐲 <br> _I'm game master of a [D&D campaign][InstagramStoriesDragõesVioletas] since 2020, with +120 sessions  (>360 hours) of play_
 
 ## Technologies I have experience with 👨‍💻
@@ -99,8 +100,12 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [ClassesCS]: https://uclab.xyz/sistemas-complexos-2021-aulas
 [ClassesIS]: https://uclab.xyz/sistemas-inteligentes-2021-aulas
 [PitchPhD]: https://renatocf.xyz/phd-pitch-2024-1
+
 [NewsCodeLab]: https://jornal.usp.br/universidade/a-nova-lingua-da-universidade-grupos-e-coletivos-da-usp-apostam-no-ensino-de-programacao/
 [NewsHackathon]: https://jornal.usp.br/universidade/voce-sabe-o-que-e-um-hackathon/
+
 [InstagramPostDigitalNomad]: https://www.instagram.com/p/CnKyhqOSgwr/?igsh=NHdidGVzZmF4dDE5/
 [InstagramStoriesBrazilToNetherlands]: https://www.instagram.com/stories/highlights/18268133827151783/
 [InstagramStoriesDragõesVioletas]: https://www.instagram.com/stories/highlights/18028676347423730/
+
+[BoardGameLibrary]: https://renatocf.xyz/board-games
