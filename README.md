@@ -16,7 +16,7 @@ Curious about my research? [Take a look at my academic carreer](https://renatocf
 
 ## Technologies I have experience with 👨‍💻
 
-[![C++ Static Badge](https://img.shields.io/badge/C%2B%2B-dodgerblue?style=for-the-badge&logo=c%2B%2B)](https://github.com/topsframework/tops)
+[![C++ Static Badge](https://img.shields.io/badge/C%2B%2B-dodgerblue?style=for-the-badge&logo=c%2B%2B)](https://github.com/renatocf/probability)
 [![Python Static Badge](https://img.shields.io/badge/Python-darkgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatocf/intelligent-systems-project)
 [![Node Static Badge](https://img.shields.io/badge/node-darkolivegreen?style=for-the-badge&logo=JavaScript&logoColor=white)](https://gitlab.com/uspcodelab/courses/MAC0475-2020/hacknizer/auth-api)
 [![Java Static Badge](https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/renatocf/MAC0242-PROJECT)
