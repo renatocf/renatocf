@@ -6,12 +6,12 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 
 ## Some things I love ❤️
 
-- **Artificial Intelligence** 🤖 <br> _I'm Chapter Leader of Machine Learning Engineering at [Elo7][elo7], delivering AI solutions into production_
+- **Artificial Intelligence** 🤖 <br> _I'm Chapter Leader of Machine Learning Engineering at [Elo7][elo7], delivering [AI solutions][HIDRAPaper] into production_
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become [professional software engineers][CodeLabNews]_
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PhDPitch]_
-- **Teaching** 👨‍🏫 <br> _I've created courses about [Complex Systems][ClassesCS] and [Intelligent Systems][ClassesIS] at USP, and I was Principal Tech Academy Instructor at [Elo7][elo7]_
+- **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Principal Tech Academy Instructor at [Elo7][elo7]_
 - **Traveling** 🌎 <br> _I've worked remotely all around Brazil 🇧🇷, and I'm currently living in the Netherlands 🇳🇱_
-- **Hackathons** ⏰ <br> _I've organized +15 competitions since 2015, with hundreds of participants, check [this preprint][HackathonPaper] and [this news][HackathonNews]_
+- **Hackathons** ⏰ <br> _I've organized [+15 competitions][HackathonPaper] since 2015, with hundreds of participants, and I am a [pioneer][HackathonNews] in university hackathons_
 - **Role-Playing Games** 🐲 <br> _I'm game master of a D&D campaign since 2020, with ~100 sessions  (~300 hours) of play_
 
 ## Technologies I have experience with 👨‍💻
@@ -77,6 +77,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [jads]: https://jads.nl
 [codelab]: https://github.com/uspcodelab
 
+[HIDRAPaper]: https://renatocf.xyz/elo7-hidra-cbsoft-2020-paper
 [CodeLabNews]: https://jornal.usp.br/universidade/a-nova-lingua-da-universidade-grupos-e-coletivos-da-usp-apostam-no-ensino-de-programacao/
 [ClassesCS]: https://uclab.xyz/sistemas-complexos-2021-aulas
 [ClassesIS]: https://uclab.xyz/sistemas-inteligentes-2021-aulas
