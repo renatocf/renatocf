@@ -9,8 +9,21 @@ Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me aroun
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about MLOps_
 - **Teaching** 👨‍🏫 <br> _I've worked as Principal Tech Academy Instructor at [Elo7][elo7], and I've created a course about complex systems at [USP][usp]_
 - **Traveling** 🌎 <br> _I've worked remotely all around Brazil 🇧🇷, and I'm currently living in the Netherlands 🇳🇱_
-- **Hackathons** 🧑‍💻 <br> _I've organized +15 competitions since 2015, with hundreds of participants_
+- **Hackathons** ⏰ <br> _I've organized +15 competitions since 2015, with hundreds of participants_
 - **Role-Playing Games** 🐲 <br> _I'm game master of a D&D campaign since 2020, with ~100 sessions  (~300 hours) of play_
+
+## Technologies I have experience with 👨‍💻
+
+[![C++ Static Badge](https://img.shields.io/badge/C%2B%2B-dodgerblue?style=for-the-badge&logo=c%2B%2B)](https://github.com/topsframework/tops)
+[![Python Static Badge](https://img.shields.io/badge/Python-darkgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatocf/intelligent-systems-project)
+[![Node Static Badge](https://img.shields.io/badge/node-darkolivegreen?style=for-the-badge&logo=JavaScript&logoColor=white)](https://gitlab.com/uspcodelab/courses/MAC0475-2020/hacknizer/auth-api)
+[![Java Static Badge](https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/renatocf/MAC0242-PROJECT)
+[![Kotlin Static Badge](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/galaxy-raiders/galaxy-raiders-api)
+[![Scala Static Badge](https://img.shields.io/badge/Scala-indianred?style=for-the-badge&logo=scala&logoColor=white)](https://gitlab.com/renatocf/exploring-mars)
+[![Perl Static Badge](https://img.shields.io/badge/Perl-darkcyan?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
+[![SQL Static Badge](https://img.shields.io/badge/SQL-mediumblue?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
+[![Make Static Badge](https://img.shields.io/badge/Make-dimgray?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/umake/make)
+[![Static Badge](https://img.shields.io/badge/vim-darkslategray?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/renatocf/dotfiles)
 
 ## My history at GitHub :octocat:
 
