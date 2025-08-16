@@ -2,7 +2,7 @@
 
 Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://linktr.ee/renatocf)
 
-## Some things I love
+## Some things I love ❤️
 
 - **Artificial Intelligence** 🤖 <br> _I'm Chapter Leader of Machine Learning Engineering at [Elo7][elo7], delivering AI solutions into production_
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become professional software engineers_
@@ -12,7 +12,7 @@ Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me aroun
 - **Hackathons** 🧑‍💻 <br> _I've organized +15 competitions since 2015, with hundreds of participants_
 - **Role-Playing Games** 🐲 <br> _I'm game master of a D&D campaign since 2020, with ~100 sessions  (~300 hours) of play_
 
-## My history at GitHub
+## My history at GitHub :octocat:
 
 <div align="left">
   <img height=220 src="https://streak-stats.demolab.com/?user=renatocf&date_format=Y.m.d&card_width=710" />
