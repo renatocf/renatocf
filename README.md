@@ -1,5 +1,7 @@
 # Renato Cordeiro Ferreira [he/him]
 
+I'm a [Brazilian 🇧🇷](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) currently working at [the Netherlands 🇳🇱](https://en.wikipedia.org/wiki/%27s-Hertogenbosch)
+
 Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://linktr.ee/renatocf)
 
 Curious about my research? [Take a look at my academic career 📚](https://renatocf.xyz/lattes)
@@ -40,7 +42,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 ![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
 [![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Docker Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/spirabr)
 [![Kafka Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![PostgreSQL Static Badge](https://img.shields.io/badge/Postgres-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
 [![MongoDB Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
@@ -52,7 +54,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Pandas Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
 [![Scikit-Learn Static Badge](https://img.shields.io/badge/SKLearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/renatocf/MAC5832-PROJECT)
 [![Spark Static Badge](https://img.shields.io/badge/Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)]()
-[![MLFlow Static Badge](https://img.shields.io/badge/MLFlow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white)]()
+[![MLFlow Static Badge](https://img.shields.io/badge/MLFlow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/spirabr)
 [![Airflow Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)]()
 <br>
 ![Static Badge](https://img.shields.io/badge/tool-black?style=for-the-badge)
