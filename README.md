@@ -20,7 +20,7 @@ Curious about my research? [Take a look at my academic carreer](https://renatocf
 [![Python Static Badge](https://img.shields.io/badge/Python-darkgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatocf/intelligent-systems-project)
 [![Node Static Badge](https://img.shields.io/badge/node-darkolivegreen?style=for-the-badge&logo=JavaScript&logoColor=white)](https://gitlab.com/uspcodelab/courses/MAC0475-2020/hacknizer/auth-api)
 [![Java Static Badge](https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/renatocf/MAC0242-PROJECT)
-[![Scala Static Badge](https://img.shields.io/badge/Scala-indianred?style=for-the-badge&logo=scala&logoColor=white)](https://gitlab.com/renatocf/exploring-mars)
+[![Scala Static Badge](https://img.shields.io/badge/Scala-indianred?style=for-the-badge&logo=scala&logoColor=white)](https://github.com/renatocf/exploring-mars)
 [![Kotlin Static Badge](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/galaxy-raiders/galaxy-raiders-api)
 [![Ruby Static Badge](https://img.shields.io/badge/ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/acessoajustica/acessoajustica)
 [![Perl Static Badge](https://img.shields.io/badge/Perl-darkcyan?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
