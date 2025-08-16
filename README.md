@@ -13,8 +13,8 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 ## Some things I love ❤️
 
 - **Scientific Programming** 💻 <br> _I work as a Scientific Programmer at [JADS][jads] (2 years), applying [MLOps][PaperThesis2] in the [maritime][PaperOG] and [healthcare][PaperSPIRA] domains_
-- **Artificial Intelligence** 🤖 <br> _I was Principal Machine Learning Engineer at [Elo7][elo7] (4 years), delivering [AI solutions][PaperHIDRA] into production_
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become [professional software engineers][NewsCodeLab]_
+- **Machine Learning** 🤖 <br> _I was Principal Machine Learning Engineer at [Elo7][elo7] (4 years), delivering [AI solutions][PaperHIDRA] into production_
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PaperThesis1]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Tech Academy Instructor at [Elo7][elo7]_
 - **Traveling** 🌎 <br> _I've [worked remotely][InstagramPostDigitalNomad] all around Brazil 🇧🇷, and I'm currently [living][InstagramStoriesBrazilToNetherlands] in the Netherlands 🇳🇱_
