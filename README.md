@@ -5,15 +5,10 @@ I'm most definitively a geek 🖖 [Want to chat? Find me around!](https://linktr
 ## Some things I love
 
 - **Artificial Intelligence** 🤖 <br> _I'm Chapter Leader of Machine Learning Engineering at [Elo7][elo7], delivering AI solutions into production_
-
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about MLOps_
-
 - **Teaching** 👨‍🏫 <br> _I've worked as Principal Tech Academy Instructor at [Elo7][elo7], training and onboarding other developers_
-
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become professional software engineers_
-
 - **Hackathons** 🧑‍💻 <br> _I've organized +15 competitions since 2015, with hundreds of participants_
-
 - **Role-Playing Games** 🐲 <br> _I'm game master of a D&D campaign since 2020, with ~100 sessions  (~300 hours) of play_
 
 ## My history at GitHub
