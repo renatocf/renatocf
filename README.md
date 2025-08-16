@@ -2,7 +2,7 @@
 
 Beware! I'm most definitively a geek 🚀 💻 🖖 [Want to chat? Find me around!](https://linktr.ee/renatocf)
 
-Curious about my research? [Take a look at my academic carreer](https://renatocf.xyz/lattes)
+Curious about my research? [Take a look at my academic career 📚](https://renatocf.xyz/lattes)
 
 ## Some things I love ❤️
 
