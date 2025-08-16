@@ -1,3 +1,4 @@
+[![renatocf-materials](https://github.com/user-attachments/assets/005b3137-4cc7-4a07-a316-3d579a286dc5)](https://github.com/topics/renatocf-bcc)
 ![renatocf-bg](https://github.com/renatocf/renatocf/assets/1621752/185f6e16-52ec-4eec-adb4-564b950776c6)
 
 # Renato Cordeiro Ferreira [he/him]
@@ -67,14 +68,6 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [![Chrome Static Badge](https://img.shields.io/badge/chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]()
 [![Firefox Static Badge](https://img.shields.io/badge/firefox-%23FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)]()
 [![ArchLinux Static Badge](https://img.shields.io/badge/arch-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)]()
-
-## Highlights ⚡
-
-<div align="left">
-  <a href="https://github.com/topics/renatocf-bcc">
-    <img width="90%" src="https://github.com/user-attachments/assets/005b3137-4cc7-4a07-a316-3d579a286dc5" />
-  </a>
-</div>
 
 ## My history at GitHub :octocat:
 
