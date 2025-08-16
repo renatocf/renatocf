@@ -14,7 +14,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 - **Software Engineering** 🌐 <br> _I'm co-founder of [CodeLab][codelab], a group that helps tech students to become [professional software engineers][NewsCodeLab]_
 - **Researching** 🧑‍🎓 <br> _I'm a PhD student at [USP][usp] (Brazil) and at [JADS][jads] (Netherlands), researching about [MLOps][PitchPhD]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Tech Academy Instructor at [Elo7][elo7]_
-- **Traveling** 🌎 <br> _I've [worked remotely][InstagramPostDigitalNomad] all around Brazil 🇧🇷, and I'm currently living in the Netherlands 🇳🇱_
+- **Traveling** 🌎 <br> _I've [worked remotely][InstagramPostDigitalNomad] all around Brazil 🇧🇷, and I'm currently [living][InstagramStoriesBrazilToNetherlands] in the Netherlands 🇳🇱_
 - **Hackathons** ⏰ <br> _I've organized [+15 competitions][PaperHackathon] since 2015, with hundreds of participants, and I'm a [pioneer][NewsHackathon] in university hackathons_
 - **Role-Playing Games** 🐲 <br> _I'm game master of a [D&D campaign][InstagramStoriesDragõesVioletas] since 2020, with +100 sessions  (>300 hours) of play_
 
@@ -90,8 +90,9 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [ClassesIS]: https://uclab.xyz/sistemas-inteligentes-2021-aulas
 [PaperHackathon]: https://renatocf.xyz/preprint-university-hackathons-engaged-students
 [PaperHIDRA]: https://renatocf.xyz/elo7-hidra-cbsoft-2020-paper
-[PitchPhD]: https://renatocf.xyz/pitch-phd-2023-1
+[PitchPhD]: https://renatocf.xyz/phd-pitch-2024-1
 [NewsCodeLab]: https://jornal.usp.br/universidade/a-nova-lingua-da-universidade-grupos-e-coletivos-da-usp-apostam-no-ensino-de-programacao/
 [NewsHackathon]: https://jornal.usp.br/universidade/voce-sabe-o-que-e-um-hackathon/
 [InstagramPostDigitalNomad]: https://www.instagram.com/p/CnKyhqOSgwr/?igsh=NHdidGVzZmF4dDE5/
+[InstagramStoriesBrazilToNetherlands]: https://www.instagram.com/stories/highlights/18268133827151783/
 [InstagramStoriesDragõesVioletas]: https://www.instagram.com/stories/highlights/18028676347423730/
