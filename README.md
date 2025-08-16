@@ -1,6 +1,9 @@
-[![renatocf-materials](https://github.com/user-attachments/assets/262c8e24-2e4c-4788-a77a-3754e699bab2)](https://github.com/topics/renatocf-bcc)
-![renatocf-profile](https://github.com/user-attachments/assets/507ebec7-9f17-42c2-9806-e16735ece3d9)
-
+<div align="left">
+  <a href="https://github.com/topics/renatocf-bcc">
+    <img width="90%" src="https://github.com/user-attachments/assets/262c8e24-2e4c-4788-a77a-3754e699bab2" />
+  </a>
+  <img width="90%" src="https://github.com/user-attachments/assets/507ebec7-9f17-42c2-9806-e16735ece3d9" />
+</div>
 
 # Renato Cordeiro Ferreira [he/him]
 
@@ -73,8 +76,8 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
   <img width="90%" src="https://renatocf-github-readme-streak-stats.vercel.app/api?user=renatocf&date_format=Y.m.d&card_width=710" />
 </div>
 <div align="left">
-  <img width="52%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews&card_width=350&" />
-  <img width="38%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12&card_width=350&" />
+  <img width="56%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
+  <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12" />
 </div>
 <div align="left">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
