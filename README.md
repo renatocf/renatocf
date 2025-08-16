@@ -24,8 +24,12 @@ Curious about my research? [Take a look at my academic carreer](https://renatocf
 [![Kotlin Static Badge](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/galaxy-raiders/galaxy-raiders-api)
 [![Perl Static Badge](https://img.shields.io/badge/Perl-darkcyan?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/renatocf/colorgrind)
 [![SQL Static Badge](https://img.shields.io/badge/SQL-mediumblue?style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlab.com/renatocf/MAC0350-PROJECT)
-[![Make Static Badge](https://img.shields.io/badge/Make-dimgray?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/umake/make)
+
+[![Git Static Badge](https://img.shields.io/badge/git-darkorange?style=for-the-badge&logo=git&logoColor=white)](https://slides.com/renatocf/advanced-git)
+![Docker Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes Static Badge](https://img.shields.io/badge/kubernetes-royalblue?style=for-the-badge&logo=kubernetes&logoColor=white)
 [![Vim Static Badge](https://img.shields.io/badge/vim-darkslategray?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/renatocf/dotfiles)
+[![Make Static Badge](https://img.shields.io/badge/Make-gray?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/umake/make)
 
 ## My history at GitHub :octocat:
 
