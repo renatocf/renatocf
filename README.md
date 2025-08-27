@@ -80,7 +80,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
   <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12" />
 </div>
 <div align="left">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
+  <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
 </div>
 
 [elo7]: https://www.elo7.com.br/sobre
