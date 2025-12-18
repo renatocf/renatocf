@@ -77,7 +77,7 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 </div>
 <div align="left">
   <img width="56%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
-  <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12" />
+  <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql,scss&langs_count=12" />
 </div>
 <div align="left">
   <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
