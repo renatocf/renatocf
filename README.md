@@ -5,7 +5,7 @@
   <img width="90%" src="https://github.com/user-attachments/assets/507ebec7-9f17-42c2-9806-e16735ece3d9" />
 </div>
 
-# Renato Cordeiro Ferreira [he/him]
+# Renato Cordeiro Ferreira, PhD [he/him]
 
 I'm a [Brazilian 🇧🇷](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) currently working at [the Netherlands 🇳🇱](https://en.wikipedia.org/wiki/%27s-Hertogenbosch)
 
