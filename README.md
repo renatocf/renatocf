@@ -85,7 +85,9 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 
 [elo7]: https://www.elo7.com.br/sobre
 [usp]: https://ime.usp.br/~renatocf
-[jads]: https://www.jads.nl/researcher/renato-cordeiro-ferreira/
+[tue]: http://renatocf.xyz/profile-tue
+[tiu]: http://renatocf.xyz/profile-tiu
+[jads]: http://renatocf.xyz/profile-jads
 [codelab]: https://github.com/uspcodelab
 
 [Thesis]: https://renatocf.xyz/phd-thesis
