@@ -15,15 +15,15 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 
 ## Some things I love ❤️
 
-- **Scientific Programming** 💻 <br> _I work as a Scientific Programmer at [JADS][jads] (2 years), applying [MLOps][PaperThesis2] in the [maritime][PaperOG] and [healthcare][PaperSPIRA] domains_
-- **Software Engineering** 🌐 <br> _I co-founded [CodeLab][codelab] (10 years), a group that helps tech students to become [professional software engineers][NewsCodeLab]_
+- **Scientific Programming** 💻 <br> _I work as a Scientific Programmer at [JADS][jads] (3 years), applying [MLOps][PaperThesis2] in the [maritime][PaperOG] and [healthcare][PaperSPIRA] domains_
+- **Software Engineering** 🌐 <br> _I co-founded [CodeLab][codelab] (11 years), a group that helps tech students to become [professional software engineers][NewsCodeLab]_
 - **Machine Learning** 🤖 <br> _I worked as Principal Machine Learning Engineer at [Elo7][elo7] (4 years), delivering [AI solutions][PaperHIDRA] into production_
-- **Researching** 🧑‍🎓 <br> _I'm a PhD at [USP][usp] (Brazil) in collaboration with [JADS][jads] (Netherlands), researching [MLOps][PaperThesis1]_
+- **Researching** 🧑‍🎓 <br> _I'm Doctor in Computer Science at [USP][usp] (Brazil) in collaboration with [TU/e][tue] (Netherlands), researching [MLOps][Thesis]_
 - **Teaching** 👨‍🏫 <br> _I've created courses about [Microservices][ClassesCS] and [MLOps][ClassesIS] at USP, and I was Tech Academy Instructor at [Elo7][elo7]_
 - **Traveling** ✈️ <br> _I've [worked remotely][InstagramPostDigitalNomad] all around Brazil 🇧🇷 and [travelled for work][InstagramStoriesBrazilToNetherlands] all around Europe 🇪🇺_
 - **Hackathons** 🧑‍💻 <br> _I've organized [+15 competitions][PaperHackathon] since 2015, and I'm a [pioneer][NewsHackathon] in university hackathons_
-- **Board Games** ♟️ <br> _I have a collection of [+30 board games][BoardGameLibrary], and I love hosting friends for playing some expert games_
-- **Role-Playing Games** 🎲 <br> _I've been the game master of a [D&D campaign][InstagramStoriesDragõesVioletas] since 2020, with +150 sessions  (>450 hours) of play_
+- **Board Games** ♟️ <br> _I have a collection of [+30 board games][BoardGameLibrary], and I love hosting friends for playing expert games_
+- **Role-Playing Games** 🎲 <br> _I've been the game master of a [D&D campaign][InstagramStoriesDragõesVioletas] since 2020, with +160 sessions  (>480 hours) of play_
 
 ## Technologies I have experience with 👨‍💻
 
@@ -88,12 +88,13 @@ Curious about my research? [Take a look at my academic career 📚](https://rena
 [jads]: https://www.jads.nl/researcher/renato-cordeiro-ferreira/
 [codelab]: https://github.com/uspcodelab
 
+[Thesis]: https://renatocf.xyz/phd-thesis
 [PaperOG]: https://doi.org/10.1007/978-3-032-07313-6_1
 [PaperSPIRA]: https://doi.org/10.1007/978-3-032-04403-7_30
-[PaperHIDRA]: http://doi.org/10.5753/cbsoft_estendido.2020.14622
-[PaperThesis1]: http://doi.org/10.1109/CAIN66642.2025.00041
-[PaperThesis2]: http://doi.org/10.48550/arXiv.2506.11295
-[PaperHackathon]: http://doi.org/10.1145/3697789.3697794
+[PaperHIDRA]: https://doi.org/10.5753/cbsoft_estendido.2020.14622
+[PaperThesis1]: https://doi.org/10.1109/CAIN66642.2025.00041
+[PaperThesis2]: https://doi.org/10.48550/arXiv.2506.11295
+[PaperHackathon]: https://doi.org/10.1145/3697789.3697794
 
 [ClassesCS]: https://uclab.xyz/sistemas-complexos-2021-aulas
 [ClassesIS]: https://uclab.xyz/sistemas-inteligentes-2021-aulas
